@@ -179,3 +179,4 @@ The training performance is not fully reproduced yet, so I recommended to use Al
    My project is inspired by these previous fantastic YOLOv3 implementations:
   * [Yolov3 tensorflow](https://github.com/YunYang1994/tensorflow-yolov3)
   * [Yolov3 tf2](https://github.com/zzh8829/yolov3-tf2)
+  * https://github.com/kairess/tensorflow-yolov4-tflite
